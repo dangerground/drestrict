@@ -1,0 +1,7 @@
+base   drestrict
+author Danny Gštte
+email  danny.goette@fem.tu-ilmenau.de
+date   2012-03-25
+name   drestrict plugin
+desc   Restricts the domain part of an eMail-address for account creation
+url    https://github.com/diveau/drestrict
